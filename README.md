@@ -1,18 +1,18 @@
-Edge Detection and Line Detection with Sobel, Canny, and Hough Transform
+# Edge Detection and Line Detection with Sobel, Canny, and Hough Transform
 
-📋 Project Description
+## 📋 Project Description
 
 This project demonstrates the implementation of various edge detection and line detection algorithms using Python and OpenCV. It includes the following techniques:
 
-Sobel Edge Detection: Detects horizontal and vertical edges in images by calculating gradients.
+* Sobel Edge Detection: Detects horizontal and vertical edges in images by calculating gradients.
 
-Canny Edge Detection: A multi-step process for detecting edges with precise thresholds and noise reduction.
+* Canny Edge Detection: A multi-step process for detecting edges with precise thresholds and noise reduction.
 
-Hough Transform: Identifies linear structures (lines) in images based on detected edges.
+* Hough Transform: Identifies linear structures (lines) in images based on detected edges.
 
 The aim of this project is to showcase the application of these algorithms in detecting and visualizing edges and lines in images.
 
-🚀 Features
+## 🚀 Features
 
 Apply Sobel Edge Detection to detect horizontal, vertical, and combined edges.
 
@@ -22,17 +22,17 @@ Use Hough Transform to identify and draw lines on the edges detected in an image
 
 Modular Python code structure for easy customization and experimentation.
 
-🔧 Technologies Used
+## 🔧 Technologies Used
 
-Python: Programming language
+* Python: Programming language
 
-OpenCV: Image processing library
+* OpenCV: Image processing library
 
-NumPy: Numerical computations
+* NumPy: Numerical computations
 
-Matplotlib: Visualization library
+* Matplotlib: Visualization library
 
-🔍 Technical Details
+## 🔍 Technical Details
 
 1. Sobel Edge Detection
 
